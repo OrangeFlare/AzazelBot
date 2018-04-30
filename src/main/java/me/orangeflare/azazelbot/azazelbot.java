@@ -10,7 +10,7 @@ public class azazelbot {
             System.err.println("    In the startup script please add API token after jar Ex: 'java -jar shrokjava.jar TokenHere'");
             return;
         }
-        IDiscordClient bot = INFO.getBuiltDiscordClient(args[1]);
+        IDiscordClient bot = INFO.getBuiltDiscordClient(args[0]);
 
         bot.getDispatcher().registerListener(new nou());
 
