@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fiscord4J:Discord4J:2.10.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Could not find com.fiscord4J:Discord4J:2.10.1.&#13;&#10;Searched in the following locations:&#13;&#10;    https:/repo1.maven.org/maven2/com/fiscord4J/Discord4J/2.10.1/Discord4J-2.10.1.pom&#13;&#10;    https:/repo1.maven.org/maven2/com/fiscord4J/Discord4J/2.10.1/Discord4J-2.10.1.jar&#13;&#10;    https:/jcenter.bintray.com/com/fiscord4J/Discord4J/2.10.1/Discord4J-2.10.1.pom&#13;&#10;    https:/jcenter.bintray.com/com/fiscord4J/Discord4J/2.10.1/Discord4J-2.10.1.jar&#13;&#10;    https:/jitpack.io/com/fiscord4J/Discord4J/2.10.1/Discord4J-2.10.1.pom&#13;&#10;    https:/jitpack.io/com/fiscord4J/Discord4J/2.10.1/Discord4J-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
