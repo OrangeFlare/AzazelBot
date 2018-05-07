@@ -1,5 +1,5 @@
 group 'me.orangeflare'
-version '1.0.1.6'
+version '1.0.1.8'
 
 apply plugin: 'java'
 
