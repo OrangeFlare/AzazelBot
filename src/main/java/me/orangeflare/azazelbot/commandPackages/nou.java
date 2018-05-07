@@ -13,7 +13,8 @@ public class nou {
         if (formattedMsg.contains("gay") || formattedMsg.contains("nou") || formattedMsg.contains("n0u") || formattedMsg.contains("g4y") ||
                 formattedMsg.contains("noyou") || formattedMsg.contains("noyu") || formattedMsg.contains("noyoo") || formattedMsg.contains("noyo") ||
                 formattedMsg.contains("ñóù") || formattedMsg.contains("ñou") || formattedMsg.contains("ñóu") || formattedMsg.contains("nóu") ||
-                formattedMsg.contains("nóù") || formattedMsg.contains("ñoù") || formattedMsg.contains("noù")) {
+                formattedMsg.contains("nóù") || formattedMsg.contains("ñoù") || formattedMsg.contains("noù") || formattedMsg.contains("n0y0u") ||
+                formattedMsg.contains("noy0u") || formattedMsg.contains("n0you") || formattedMsg.contains("n0u")) {
 
             if (formattedMsg.contains("enough") || formattedMsg.contains("announce") || formattedMsg.contains("pronounce") || formattedMsg.contains("noyour")) {
                 //do nothing
