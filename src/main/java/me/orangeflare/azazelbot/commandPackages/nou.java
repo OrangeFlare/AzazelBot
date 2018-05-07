@@ -15,7 +15,8 @@ public class nou {
                 formattedMsg.contains("ñóù") || formattedMsg.contains("ñou") || formattedMsg.contains("ñóu") || formattedMsg.contains("nóu") ||
                 formattedMsg.contains("nóù") || formattedMsg.contains("ñoù") || formattedMsg.contains("noù") || formattedMsg.contains("n0y0u") ||
                 formattedMsg.contains("noy0u") || formattedMsg.contains("n0you") || formattedMsg.contains("n0u") || formattedMsg.contains("nоu") ||
-                formattedMsg.contains("gaу")) {
+                formattedMsg.contains("gaу") || formattedMsg.contains("noyоu") || formattedMsg.contains("noyоu") || formattedMsg.contains("nоyou") ||
+                formattedMsg.contains("noуou") || formattedMsg.contains("noуou") || formattedMsg.contains("noуou") || formattedMsg.contains("noуоu")) {
             if (formattedMsg.contains("enough") || formattedMsg.contains("announce") || formattedMsg.contains("pronounce") || formattedMsg.contains("noyour")) {
                 //do nothing
             } else if (event.getAuthor().getLongID() == 176108182056206336L || event.getAuthor().getLongID() == 253733469778083840L || event.getAuthor().getLongID() == 241685759348703232L) {
