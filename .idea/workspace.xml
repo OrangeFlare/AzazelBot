@@ -6,17 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb3e2a5-1522-4b75-ab32-305843791099" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/azazelbot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/azazelbot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/azazelbot_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/azazelbot_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/azazelbot_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/azazelbot_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-    </list>
+    <list default="true" id="7eb3e2a5-1522-4b75-ab32-305843791099" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -59,38 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bin/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" selection-start-column="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nou.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="nou.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/commandPackages/nou.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="108" selection-start-line="15" selection-start-column="108" selection-end-line="15" selection-end-column="108" />
+            <state relative-caret-position="153">
+              <caret line="9" column="62" lean-forward="true" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/INFO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -494,12 +457,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/commandPackages/nou.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/INFO.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/azazelbot.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/bin/build.gradle" />
         <option value="$PROJECT_DIR$/bin/settings.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/INFO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/commandPackages/nou.java" />
       </list>
     </option>
   </component>
@@ -581,7 +544,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.azazelbot [buildDependents]">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -589,6 +552,9 @@
       <option name="MAIN_CLASS_NAME" value="me.orangeflare.azazelbot.azazelbot" />
       <module name="azazelbot_main" />
       <option name="PROGRAM_PARAMETERS" value="NDM3MzQ1ODQ2NDU1OTU5NTUy.Dcj_Jw.MmWibfElCNM0pVBLxety6jMoM2c" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -670,6 +636,7 @@
       <item itemvalue="Application.RunBot" />
       <item itemvalue="Gradle.azazelbot [buildDependents]" />
       <item itemvalue="Gradle.azazelbot [build]" />
+      <item itemvalue="Application.Unnamed" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -687,7 +654,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="sbt" />
@@ -1134,30 +1100,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/INFO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/commandPackages/nou.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="108" selection-start-line="15" selection-start-column="108" selection-end-line="15" selection-end-column="108" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1171,24 +1138,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/INFO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/azazelbot/commandPackages/nou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        <state relative-caret-position="153">
+          <caret line="9" column="62" lean-forward="true" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
